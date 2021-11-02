@@ -1,5 +1,3 @@
-module eltneg/modmod
-
-replace eltneg/modmod => github.com/eltNEG/modmod v0.0.0-20211102075544-8e6ad39436d5
+module github.com/eltNEG/modmod
 
 go 1.17

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"eltneg/modmod/hello"
+	"github.com/eltNEG/modmod/hello"
 )
 
 func main() {
